@@ -1,0 +1,40 @@
+main{ 
+        border-style:dotted;
+        margin:3em 1em;
+        padding: 1em 1.5em;
+}
+
+header{
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+.link {
+    color:red;
+    text-decoration:none;
+    margin:2em;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 60;
+    padding: 0;
+  }
+  
+  li{
+      display:inline;
+  }
+  li a {
+    display: inline;
+    color: #000;
+    padding: 20px 16px;
+    text-decoration: none;
+    border:black;
+  }
+  
+   li a:hover {
+    background-color: #555;
+    color: white;
+  }
+ 
+  
